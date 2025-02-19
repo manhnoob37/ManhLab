@@ -1,2 +1,2 @@
 # ManhLab
-Website: https://manhnoob37.github.io/JuicyNTT/
+Website: https://manhnoob37.github.io/ManhLab/
