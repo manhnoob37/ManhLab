@@ -7,6 +7,11 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+ @font-face {
+  font-family: LittleFont;
+  src: url(../webfonts/Little-Thiing-Regular.otf);
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -22,7 +27,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font-family: cursive;
+	font-family: LittleFont;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -124,7 +129,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: LittleFont;
 		font-size: 16.5pt;
 		font-weight: 300;
 		line-height: 1.65;
@@ -189,7 +194,7 @@ input, select, textarea {
 			text-decoration: none;
 			border-bottom: 0;
 			display: block;
-			font-family: Raleway, Helvetica, sans-serif;
+			font-family: LittleFont;
 			font-size: 0.8em;
 			font-weight: 700;
 			letter-spacing: 0.1em;
@@ -252,7 +257,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
-		font-family: Raleway, Helvetica, sans-serif;
+		font-family: LittleFont;
 		font-weight: 700;
 		letter-spacing: 0.1em;
 		margin: 0 0 1em 0;
@@ -2167,7 +2172,7 @@ input, select, textarea {
 	label {
 		color: #ffffff;
 		display: block;
-		font-family: Raleway, Helvetica, sans-serif;
+		font-family: LittleFont;
 		font-size: 0.8em;
 		font-weight: 700;
 		letter-spacing: 0.1em;
@@ -2270,7 +2275,7 @@ input, select, textarea {
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
-			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-family: LittleFont;
 			text-transform: none;
 			letter-spacing: 0;
 			font-weight: 300;
@@ -2870,7 +2875,7 @@ input, select, textarea {
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-family: Raleway, Helvetica, sans-serif;
+		font-family: LittleFont;
 		font-size: 0.8em;
 		font-weight: 700;
 		height: 3.75em;
@@ -3104,7 +3109,7 @@ input, select, textarea {
 			}
 
 		#header nav {
-			font-family: Raleway, Helvetica, sans-serif;
+			font-family: LittleFont;
 			font-size: 0.8em;
 			font-weight: 700;
 			height: 3em;
@@ -3327,7 +3332,7 @@ input, select, textarea {
 					border-radius: 5px;
 					border: 0;
 					display: block;
-					font-family: Raleway, Helvetica, sans-serif;
+					font-family: LittleFont;
 					font-size: 0.8em;
 					font-weight: 200;
 					letter-spacing: 0.1em;
@@ -3453,7 +3458,7 @@ input, select, textarea {
 			-ms-filter: blur(0);
 			filter: blur(0);
 			opacity: 1;
-			font-family: Raleway, Helvetica, sans-serif;
+			font-family: LittleFont;
 			font-size: 1em;
 			font-weight: 200;
 			letter-spacing: 0.1em;
@@ -3505,11 +3510,11 @@ input, select, textarea {
 					}
 
 				#banner h2 {
-					font-size: 1.5em;
+					font-size: 2.25em;
 				}
 
 				#banner p {
-					font-size: 0.8em;
+					font-size: 1em;
 				}
 
 		}
@@ -3565,7 +3570,7 @@ input, select, textarea {
 		}
 
 		#wrapper > header p {
-			font-family: Raleway, Helvetica, sans-serif;
+			font-family: LittleFont;
 			font-size: 1em;
 			font-weight: 200;
 			letter-spacing: 0.1em;
